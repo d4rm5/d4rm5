@@ -4,9 +4,7 @@ Soy Dante, un chico de 16 años que vive en Argentina y está aprendiendo sobre 
 
 [![Twitter: D4rm_](https://img.shields.io/twitter/follow/d4rm_)](https://twitter.com/d4rm_)
 
-#### Blog 
-Mi objetivo para 2022 es aprender a programar en JavaScript y Solidity.
-
-Estoy recopilando mi aprendizaje en [mi blog en Mirror](https://mirror.xyz/0x021584e57b2219957784951639385027607266e6/)
+#### Blog 📝
+Mi objetivo para 2022 es aprender a programar en JavaScript y Solidity. Estoy recopilando mi aprendizaje de forma semanal en [mi blog en Mirror](https://mirror.xyz/0x021584e57b2219957784951639385027607266e6/), te invito a leerlo, quizás te sirve como motivación!
 
 ![thumbnahil](https://images.mirror-media.xyz/nft/cm5O54G1SAPCig6XLKqiX.png)
