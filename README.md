@@ -2,7 +2,8 @@
 
 Soy Dante, un chico de 16 años que vive en Argentina y está aprendiendo sobre programacion y desarrollo para web3. 
 
-<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=d4rm_"  style="width:300px; height:20px;"></iframe>
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=d4rm_"  style="width:300px; height:20px;">
+</iframe>
 
 #### Blog 
 Mi objetivo para 2022 es aprender a programar en JavaScript y Solidity.
