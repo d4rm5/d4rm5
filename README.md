@@ -7,7 +7,7 @@ Soy Dante, un chico de 17 años de Argentina. Desde que tengo memoria me interes
 
 ## Social media / mis redes sociales:
 
-Twitter → https://twitter.com/d4rm_
+Twitter → [https://twitter.com/d4rm](https://twitter.com/d4rm_)
 
 Github → https://github.com/d4rm5
 
