@@ -16,4 +16,4 @@ Mirror (blog) → https://mirror.xyz/0x021584e57b2219957784951639385027607266e6
 
 ## Finished projects:
 
-Punto de interés (podcast): https://pod.link/1568991931
+Punto de interés (podcast) → https://pod.link/1568991931
