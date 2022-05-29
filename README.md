@@ -13,7 +13,7 @@ Github → https://github.com/d4rm5
 
 Mirror (blog) → https://mirror.xyz/0x021584e57b2219957784951639385027607266e6
 
-Typefully (my threads) → https://typefully.com/D4rm_
+Typefully (my threads) → [https://typefully.com/D4rm_](https://typefully.com/D4rm_)
 
 
 ## Finished projects:
