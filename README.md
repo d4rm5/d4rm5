@@ -1,21 +1,17 @@
-# Hello 👋🏻
+<img align="right" src="https://user-images.githubusercontent.com/84307018/196826419-29e3c8fd-e49b-4e0f-bddb-1e0e26da6ca8.png">
 
-I am Dante, a 17 year old boy from Argentina. Since I can remember I'm strongly interested in everything related to computing and technology, but since the end of 2020 I'm specially interested in the whole crypto ecosystem, especially in Ethereum and its community. These factors led me to study programming with intentions to specialize in web3 in the future. 
+# Hi! Dante here! 👋🏻
 
-Soy Dante, un chico de 17 años de Argentina. Desde que tengo memoria me interesa fuertemente todo lo relacionado a la computación y tecnología, pero desde finales de 2020 estoy especialmente interesado por todo el ecosistema crypto, especialmente en Ethereum y su comunidad. Estos factores me llevaron a estudiar programación con intenciones de especializarme en web3 en un futuro. 
+✨ I'm a student of programming from Argentina focused on Web3 <br>
+🧠 Strongly interested in everything related to computing and technology <br>
+💻 I code in JavaScript and I'm learning Solidity
+<br>
+## 🌐Social media
+<a href="https://twitter.com/d4rm_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://mirror.xyz/dantesito.eth"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white"></a>
 
-
-## Social media / mis redes sociales:
-
-Twitter → [https://twitter.com/d4rm](https://twitter.com/d4rm_)
-
-Github → https://github.com/d4rm5
-
-Mirror (blog) → https://mirror.xyz/dantesito.eth
-
-Typefully (my threads) → [https://typefully.com/D4rm_](https://typefully.com/D4rm_)
-
-
-## Finished projects:
-
-Punto de interés (podcast) → https://pod.link/1568991931
+## 👨‍💻Techs & tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
