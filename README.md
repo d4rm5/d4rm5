@@ -4,7 +4,7 @@
 
 ✨ I'm a student of programming from Argentina focused on Web3 <br>
 🧠 Strongly interested in everything related to computing and technology <br>
-💻 I code in JavaScript and I'm learning Solidity
+💻 I code in JavaScript and I'm learning Solidity and React
 <br>
 ## 🌐Social media
 <a href="https://twitter.com/d4rm_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
