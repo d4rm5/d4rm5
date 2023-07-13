@@ -7,6 +7,7 @@
 💻 Always learning, currently focused on MERN stack and looking to mobile and Web3
 <br>
 ## 🌐 Social media
+<a href="https://mastodon.social/@d4rm_"><img src="https://img.shields.io/badge/mastodon-8A2BE2.svg?style=for-the-badge&logo=mastodon&logoColor=white"></a>
 <a href="https://twitter.com/d4rm_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/dantem05/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://mirror.xyz/dantesito.eth"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white"></a>
