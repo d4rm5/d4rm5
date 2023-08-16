@@ -3,8 +3,8 @@
 # Hi, Dante here! 👋🏻
 
 ✨ I'm a student of programming from Argentina <br>
-🧠 Strongly interested in everything related to computing and technology <br>
-💻 Always learning, currently focused on MERN stack and looking to mobile and Web3
+🧠 Strongly interested in everything related to computing, cryptography and technology <br>
+💻 Always learning, currently focused on full stack development and Ethereum smart contract programming
 <br>
 ## 🌐 Social media
 <a href="https://mastodon.social/@d4rm_"><img src="https://img.shields.io/badge/mastodon-8A2BE2.svg?style=for-the-badge&logo=mastodon&logoColor=white"></a>
