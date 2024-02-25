@@ -9,14 +9,14 @@
 
 ## cool projects ↓
 
-- (Library digital credential)[https://twitter.com/d4rm_/status/1722034025190023404]: Open source digital credential software created for my school’s library, built with Expo, React Native, Go, and MySQL. It’s the project with which I finished high school and graduated as a programming technician.
+- [Library digital credential](https://twitter.com/d4rm_/status/1722034025190023404): Open source digital credential software created for my school’s library, built with Expo, React Native, Go, and MySQL. It’s the project with which I finished high school and graduated as a programming technician.
 
-- (Technical high school catalog)[https://github.com/catalogo-inet/catalogo-inet-front]: A map and catalog of all the technical secondary schools in Argentina, which won a contest organized by the INET (National Institute of Technological Education), where many schools from the country participated.
+- [Technical high school catalog](https://github.com/catalogo-inet/catalogo-inet-front): A map and catalog of all the technical secondary schools in Argentina, which won a contest organized by the INET (National Institute of Technological Education), where many schools from the country participated.
 
-- (IMDD)[https://github.com/d4rm5/IMDD]: A movie review website built with PHP, Bootstrap 5 and MySQL for a school project.
+- [IMDD](https://github.com/d4rm5/IMDD): A movie review website built with PHP, Bootstrap 5 and MySQL for a school project.
 
-- (Punto de interés)[https://pod.link/puntodeinteres]: Podcast interview series that I created, hosted and produced in the winter of 2021.
+- [Punto de interés](https://pod.link/puntodeinteres): Podcast interview series that I created, hosted and produced in the winter of 2021.
 
 ## find me on
 
-> (d4rm.xyz)[https://d4rm.xyz]
+> [d4rm.xyz](https://d4rm.xyz)
