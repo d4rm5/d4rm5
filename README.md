@@ -2,13 +2,21 @@
 
 # Hi, Dantesito here! 👋🏻
 
-<p>
-				Overall, I am passionate about tech and computing (my father's fault for sitting me in front of a computer when I was 3 years old). In the last few years, I have been strongly interested in programming, cryptography, and all the topics related to the Ethereum and blockchain ecosystem, to which I would like to contribute as an engineer in the future.
-			</p> 
-			<p>
-				Currently, I'm finishing my technical high school education in the field of programming, and next year I am going to start studying systems engineering at UNICEN with the expectation of nurturing myself to contribute to the world in the future.
-			</p>
+## computer science fan — founder @ [Libly](https://libly.xyz) — devrel @ [Proof of X](https://pox.me)
 
+<p> I am passionate about computing, interested in cryptography, Ethereum, and distributed systems. Last year, I completed my studies as a secondary programming technician, and this year I am starting my degree in systems engineering at UNICEN. I am focused on learning and growing to contribute to the blockchain ecosystem.
+</p>
 
-> [d4rm.xyz](https://d4rm.xyz)
+## cool projects ↓
 
+- (Library digital credential)[https://twitter.com/d4rm_/status/1722034025190023404]: Open source digital credential software created for my school’s library, built with Expo, React Native, Go, and MySQL. It’s the project with which I finished high school and graduated as a programming technician.
+
+- (Technical high school catalog)[https://github.com/catalogo-inet/catalogo-inet-front]: A map and catalog of all the technical secondary schools in Argentina, which won a contest organized by the INET (National Institute of Technological Education), where many schools from the country participated.
+
+- (IMDD)[https://github.com/d4rm5/IMDD]: A movie review website built with PHP, Bootstrap 5 and MySQL for a school project.
+
+- (Punto de interés)[https://pod.link/puntodeinteres]: Podcast interview series that I created, hosted and produced in the winter of 2021.
+
+## find me on
+
+> (d4rm.xyz)[https://d4rm.xyz]
