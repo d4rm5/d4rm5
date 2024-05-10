@@ -2,9 +2,9 @@
 
 # Hi, Dantesito here! 👋🏻
 
-## computer science fan — founder @ [Libly](https://libly.xyz) — devrel @ [Proof of X](https://pox.me)
+## Gordo compu full-time — founder @ [Libly](https://libly.xyz) — past contributor @ [Proof of X](https://pox.me)
 
-<p> Gordo compu full-time. Student of systems engineering. Blockchain, cryptography, distributed systems, cybersecurity and performant software.
+<p>  Student of systems engineering. Blockchain, cryptography, distributed systems, cybersecurity and performant software.
 </p>
 
 ## cool projects ↓
