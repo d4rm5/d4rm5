@@ -2,14 +2,15 @@
 
 # Hi, Dantesito here! 👋🏻
 
-## Gordo compu full-time — founder @ [Libly](https://libly.xyz) — past contributor @ [Proof of X](https://pox.me)
+I'm Dante, aka dantesito or d4rm. 
 
-<p>  Student of systems engineering. Blockchain, cryptography, distributed systems, cybersecurity and performant software.
-</p>
+I'm a student of systems engineering from Argentina, and a freak about blockchain, Ethereum, cryptography and computers in general. 
+
+Currently I'm learning about smart contracts, cryptography, cybersecurity and related things. In the past I've co-founded Libly.xyz and also contributed in [Proof of X](pox.me) protocol, but now I'm focused in learn. 🤜🤛
 
 ## cool projects ↓
 
-- [Library digital credential](https://twitter.com/d4rm_/status/1722034025190023404): Open source digital credential software created for my school’s library, built with Expo, React Native, Go, and MySQL. It’s the project with which I finished high school and graduated as a programming technician.
+- [Library digital credential](https://x.com/d4rm_/status/1722034025190023404): Open source digital credential software created for my school’s library, built with Expo, React Native, Go, and MySQL. It’s the project with which I finished high school and graduated as a programming technician.
 
 - [Technical high school catalog](https://github.com/catalogo-inet/catalogo-inet-front): A map and catalog of all the technical secondary schools in Argentina, which won a contest organized by the INET (National Institute of Technological Education), where many schools from the country participated.
 
