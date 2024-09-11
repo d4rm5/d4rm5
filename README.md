@@ -1,4 +1,4 @@
-<img align="right" src="https://pbs.twimg.com/profile_images/1830747631531827200/d4LVazbq_400x400.png">
+<img align="left" src="https://github.com/d4rm5/d4rm5/blob/main/z4uPKEdx_400x400-removebg-preview.png?raw=true" width="200px">
 
 # Hi, Dantesito here! 👋🏻
 
