@@ -6,7 +6,7 @@ I'm Dante, aka dantesito or d4rm. 🤠
 
 I'm a systems engineering student from Argentina and a freak about blockchain, Ethereum, cryptography, and computers in general. 🧑‍💻 
 
-Currently, I'm learning about smart contracts, cryptography, cybersecurity and related things. In the past I co-founded Libly.xyz and also contributed to [Proof of X](https://pox.me) protocol, but now I'm focused on learning. 🤜🤛
+Currently, I'm learning about smart contracts, cryptography, cybersecurity and related things. 🪷
 
 ## cool projects ↓
 
