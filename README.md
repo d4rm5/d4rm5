@@ -6,14 +6,15 @@ I'm Dante, aka dantesito or d4rm. 🤠
 
 I'm a systems engineering student from Argentina and a freak about blockchain, Ethereum, cryptography, and computers in general. 🧑‍💻 
 
-Currently, I'm learning about smart contracts, cryptography, cybersecurity and related things. 🪷
+Currently, I'm learning about smart contracts, cryptography, cybersecurity, and related topics. In the past, I learned web and mobile development with a focus on front-end technologies like TypeScript, React, React Native, and Next.js. 🪷
 
-## cool projects ↓
+## past projects / contributions ↓
 
-- [Library digital credential](https://x.com/d4rm_/status/1722034025190023404): Open source digital credential software created for my school’s library, built with Expo, React Native, Go, and MySQL. It’s the project with which I finished high school and graduated as a programming technician.
+- [Proof of X](https://pox.me): Open source web3 protocol focused on internet identity and privacy. I contributed developing the web3 software and mantaining the community. Worked with Next.js, Tailwind and front-end smart contracts integrations.
+
+- [Library digital credential](https://x.com/d4rm_/status/1722034025190023404): Open source digital credential software created for my school’s library, built with Expo, React Native, Go, and MySQL. It was my final project for high school.
+
+- [El Burro Podcast](https://youtube.com/@realburropodcast): Podcast that I co-created, hosted and co-produced in the winter of 2023.
 
 - [Technical high school catalog](https://github.com/catalogo-inet/catalogo-inet-front): A map and catalog of all the technical secondary schools in Argentina, which won a contest organized by the INET (National Institute of Technological Education), where many schools from the country participated.
 
-- [IMDD](https://github.com/d4rm5/IMDD): A movie review website built with PHP, Bootstrap 5 and MySQL for a school project.
-
-- [Punto de interés](https://pod.link/puntodeinteres): Podcast interview series that I created, hosted and produced in the winter of 2021.
