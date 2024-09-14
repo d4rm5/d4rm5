@@ -14,7 +14,7 @@ Currently, I'm learning about smart contracts, cryptography, cybersecurity, and 
 
 - [Library digital credential](https://x.com/d4rm_/status/1722034025190023404): Open source digital credential software created for my school’s library, built with Expo, React Native, Go, and MySQL. It was my final project for high school.
 
-- [El Burro Podcast](https://youtube.com/@realburropodcast): Podcast that I co-created, hosted and co-produced in the winter of 2023.
+- [El Burro Podcast](https://youtube.com/@realburropodcast): Podcast that I co-created, hosted and co-produced in 2023.
 
 - [Technical high school catalog](https://github.com/catalogo-inet/catalogo-inet-front): A map and catalog of all the technical secondary schools in Argentina, which won a contest organized by the INET (National Institute of Technological Education), where many schools from the country participated.
 
