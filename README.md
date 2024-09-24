@@ -4,7 +4,7 @@
 
 I'm Dante, aka dantesito or d4rm. 🤠
 
-I'm a systems engineering student from Argentina and a freak about blockchain, Ethereum, cryptography, and computers in general. 🧑‍💻 
+I'm a systems engineering student from Argentina and a passionate enthusiast about blockchain, Ethereum, cryptography, and computers in general. 🧑‍💻 
 
 Currently, I'm learning about smart contracts, cryptography, cybersecurity, and related topics. In the past, I learned web and mobile development with a focus on front-end technologies like TypeScript, React, React Native, and Next.js. 🪷
 
